@@ -1,0 +1,2 @@
+# Easy-Shop
+Email templates
